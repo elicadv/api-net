@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SlC13PucHFvdR2XU0WK1+h9L1aWCXjLUKh2rXC8BrTwBcF1OYy4tc4Z45baoCwYRfLpBnkCN0V5Ksl0+lnCSKg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\TEMP.alisson-PC.019\\Desktop\\sistema de tarefas\\sistema de tarefas\\sistema de tarefas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\TEMP.alisson-PC.019\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

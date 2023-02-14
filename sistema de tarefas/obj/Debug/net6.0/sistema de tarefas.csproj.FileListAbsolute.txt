@@ -1,0 +1,32 @@
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\appsettings.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\sistema de tarefas.exe
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\sistema de tarefas.deps.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\sistema de tarefas.runtimeconfig.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\sistema de tarefas.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\sistema de tarefas.pdb
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.csproj.AssemblyReference.cache
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.AssemblyInfoInputs.cache
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.AssemblyInfo.cs
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.csproj.CoreCompileInputs.cache
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.sistema de tarefas.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.build.sistema de tarefas.props
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.sistema de tarefas.props
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.sistema de tarefas.props
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\scopedcss\bundle\sistema de tarefas.styles.css
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.csproj.CopyComplete
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\refint\sistema de tarefas.dll
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.pdb
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\sistema de tarefas.genruntimeconfig.cache
+C:\Users\TEMP.alisson-PC.019\Desktop\sistema de tarefas\sistema de tarefas\obj\Debug\net6.0\ref\sistema de tarefas.dll
